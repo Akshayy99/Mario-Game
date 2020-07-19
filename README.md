@@ -37,13 +37,13 @@ Run the python script
 
 ## Symbols
 
--   $$
-	||  --> Mario
+-   $$\
+||  --> Mario
 
--   bb
-	bb  --> Brick
+-   bb\
+bb  --> Brick
 
--   EE
-	EE  --> Enemy
+-   EE\
+EE  --> Enemy
 
 -   O   --> Coin
